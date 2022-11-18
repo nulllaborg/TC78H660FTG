@@ -368,7 +368,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ESP32_Expansion_board.kicad_pro",
+    "filename": "H660FTG.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -402,8 +402,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "H660FTG.step",
+      "vrml": "H660FTG.wrl"
     },
     "page_layout_descr_file": ""
   },
